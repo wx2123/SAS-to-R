@@ -9,6 +9,14 @@
 |   1.4| Calling SAS from R     |
 |   1.5| SAS, R and Cloud computing     |
 
+
+## 1. Introduction
+## 1.1 SAS vs R
+## 1.2 Open source software
+## 1.3 Interface
+## 1.4 Calling SAS from R
+## 1.5 SAS, R and Cloud computing
+
 1.Introduction
 1.1 SAS vs R, 
 1.2 Open source software, 
