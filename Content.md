@@ -1,5 +1,11 @@
 
 
+|      | Content                |
+|-----:|------------------------|
+|   1  | Introduction           |
+|   1.1| SAS vs R               |
+|   1.2| Open source software   |
+
 1.Introduction
 1.1 SAS vs R, 
 1.2 Open source software, 
