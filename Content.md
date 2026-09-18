@@ -10,12 +10,16 @@
 |   1.5| SAS, R and Cloud computing     |
 
 
-## 1. Introduction
+## 1 Introduction
 ## 1.1 SAS vs R
 ## 1.2 Open source software
 ## 1.3 Interface
 ## 1.4 Calling SAS from R
 ## 1.5 SAS, R and Cloud computing
+
+#  2 Import and reporting data
+## 2.1 Manually data entry in R
+## 2.2 Import SAS data to R
 
 1.Introduction
 1.1 SAS vs R, 
