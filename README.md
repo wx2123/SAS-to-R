@@ -31,3 +31,8 @@ The challenge goes beyond translating SAS syntax into R: organizations must pres
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+
+## About me
+
+<!-- TO DO: add more details about me later -->
