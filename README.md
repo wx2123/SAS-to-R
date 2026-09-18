@@ -13,3 +13,14 @@ The challenge goes beyond translating SAS syntax into R: organizations must pres
 |     2| Import data   |
 |     3|  Loops        |
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| SAS       |
+|     2| Python/R  |
+|     3| SQL       |
+
+</details>
+
